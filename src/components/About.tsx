@@ -39,7 +39,7 @@ const About = () => {
             </div>
             <div className="flex gap-4 pt-4">
               <Button variant="default" size="lg">
-                HIRE ME
+                <a href="https://wa.me/qr/6XXNJEAV3BTLA1">HIRE ME</a>
               </Button>
               <a href="/cv.docx" download>
                 <Button variant="outline" size="lg">
